@@ -213,6 +213,7 @@ Rotate the Indexer/Dashboard credentials ASAP if:
 ## Screenshots
 
 
-### Contabo VPS Login
-![Contabo VPS Login](Password change in VPS.png)
+### Wazuh official
+![Wazuh Documentation](Wazuh-documentation.png)
+
 
